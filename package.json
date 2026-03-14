@@ -1,5 +1,5 @@
 {
-  "name": "koishi-plugin-cromt-querier"，
+  "name": "koishi-plugin-cromt-querier",
   "description": "白然让我写的",
   "version": "0.0.1",
   "main": "lib/index.js",
