@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-cromt-querier",
   "description": "白然让我写的",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -22,8 +22,7 @@
     "plugin"
   ],
   "dependencies": {
-    "@satorijs/element": "latest",
-    "koishi-thirdeye": "latest"
+    "@satorijs/element": "latest"
   },
   "devDependencies": {
     "@koishijs/scripts": "4.5.2",
